@@ -1,24 +1,13 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Senthil%20Kumaran&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descSize=18&descAlignY=72" alt="Senthil Kumaran banner" width="100%">
-
-### Hey there! 👋 I'm Senthil Kumaran
-
-*Building practical AI applications, one project at a time.*
-
-![Location](https://img.shields.io/badge/-Chennai,%20India-333333?style=flat&logo=googlemaps&logoColor=white)
-
-</div>
+<h2 align="center">Hey there! 👋 I'm Senthil Kumaran</h2>
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 B.Tech student in **Artificial Intelligence and Data Science**
-- 🤔 Exploring new technologies and building innovative software solutions and quick hacks
-- 💡 Interested in **Machine Learning, Deep Learning, Web Development, and Research**
-- 🏆 Passionate about **hackathons** and building impactful projects
-- 📄 Two international conference publications (**TIJER** and **CORPUS**)
+- 🤔 Exploring new technologies and developing innovative software solutions and quick hacks.
+- 🎓 Currently pursuing **B.Tech in Artificial Intelligence and Data Science**.
+- 💡 Interested in **Machine Learning, Deep Learning, and Web Development**.
+- 🏆 Passionate about participating in **hackathons** and building impactful projects.
 
 ---
 
@@ -62,35 +51,20 @@
 
 ---
 
-### 📜 Certifications
-
-Oracle • Google • NASSCOM • TCS iON • Infosys
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senthilkumaran0411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilkumaran0411&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170">
-</p>
-
----
-
 ### 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/senthil-kumaran-251100279/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/senthilkumaran0411" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-  <a href="mailto:senthilkumarano411@gmail.com">
+  <a href="mailto:senthilkumaran0411@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/senthilkumaran0411">Senthil Kumaran</a></p>
+⭐️ *From [Senthil Kumaran](https://github.com/senthilkumaran0411)*
